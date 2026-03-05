@@ -1,0 +1,19 @@
+[book]
+title = "Embodied Intelligence Labs – CSE 598/494"
+authors = ["Embodied Intelligence Labs Contributors"]
+language = "en"
+src = "src"
+
+[build]
+create-missing = true
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = ""
+git-repository-icon = "fa-github"
+
+[output.html.search]
+enable = true
+limit-results = 30
+
